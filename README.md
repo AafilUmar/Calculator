@@ -1,2 +1,2 @@
 # Calculator
-calculator made from python really needed contribution its hobby and study project 
+Calculator made from python really needed contribution its a hobby and study project 
