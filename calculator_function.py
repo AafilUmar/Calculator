@@ -14,4 +14,4 @@ def calculator(a,b,operator):
             return a*b,operator
             break
         else:
-            operator =input("enter a vallid operator")
+            operator =input("enter a valid operator")
